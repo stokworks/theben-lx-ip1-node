@@ -1,0 +1,14 @@
+{
+  "name": "theben-lx-ip1-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sander Bakkum",
+  "license": "ISC",
+  "description": "HTTP and WebSocket client library for controlling and reading data from Theben LuxorLiving IP1 KNX gateway through the web interface.",
+  "dependencies": {
+    "websocket": "^1.0.35"
+  }
+}
